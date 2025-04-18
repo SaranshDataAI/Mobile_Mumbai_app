@@ -31,7 +31,7 @@ A full-stack machine learning Android app that predicts house prices in Mumbai b
 | Layer        | Technology                |
 |--------------|---------------------------|
 | 📱 Frontend  | Flutter (Android) + GetX  |
-| 🧠 ML Model  | Scikit-learn (Random Forest) |
+| 🧠 ML Model  | Scikit-learn (XGBoost) |
 | 🔌 Backend   | Flask API                 |
 | ☁️ Hosting   | Render.com                |
 | 🔣 Format    | Indian currency (₹12,34,000) |
