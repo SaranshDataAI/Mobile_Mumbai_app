@@ -64,6 +64,14 @@ lib/ ├── main.dart ├── controller.dart └── ui/ ├── home_
 
 
 ---
+### 📲 Download the App
+
+Scan this QR code to download the APK:
+
+![QR Code](assets/images/apk_qr.png)
+
+Or [Click here to download]([https://drive.google.com/file/d/XYZ/view?usp=sharing](https://drive.google.com/file/d/1dQ6B7i0p70hfa9G5TctLKgTlV6ro9-1q/view?usp=drive_link))
+
 
 ## 🙌 Acknowledgements
 
